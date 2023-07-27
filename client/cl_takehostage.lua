@@ -11,7 +11,7 @@ local takeHostage = {
 	allowedWeapons = {
 		`WEAPON_PISTOL`,
 		`WEAPON_COMBATPISTOL`,
-		`WEAPON_GLOCK`,
+		--`WEAPON_GLOCK`,
 		`WEAPON_HEAVYPISTOL`,
 		`WEAPON_SNSPISTOL`,
 		`WEAPON_VINTAGEPISTOL`,
